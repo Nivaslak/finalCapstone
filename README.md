@@ -24,8 +24,8 @@ Copy code
 3. Plot a scatter plot of age vs. spending score
 4. Fit a linear regression model to the data
 5. Make predictions on the input data
-6. Plot the best fit line:
-7. Show the plot:
+6. Plot the best fit line
+7. Show the plot
 
 
 
